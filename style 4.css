@@ -1,0 +1,8 @@
+body{background-color:#dd0fcc;}
+.ld {display: -webkit-flex;
+    display: flex;}
+    .ls{background-color: white;
+         margin: 20px 20px 20px 20px;
+          width: 300px;height: 220px;}
+          .lo{margin: 20px 20px 20px 20px;}
+          .lk{margin: 20px 20px 20px 20px;border: 2px solid black;padding:20px 20px 20px 20px ;height: 80px; overflow: auto;}

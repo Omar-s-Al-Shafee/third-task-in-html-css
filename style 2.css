@@ -1,0 +1,9 @@
+body{background-color:rgb(255, 255, 153) ;}
+.l {display: -webkit-flex;
+    display: flex;
+ width: 80%;margin: 0px 40px 0px 120px;}
+ .k {background-color: white;width: 80%;padding: 0px 10px 0px 10px; }
+ .s {background-color: rgb(199, 196, 196);
+width: 20%;}
+ .c {background-color: yellow;
+width: 80%; height: 80px;margin: 0px 40px 0px 120px;}
